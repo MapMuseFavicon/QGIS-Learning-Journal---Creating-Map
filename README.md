@@ -11,3 +11,11 @@ Documenting my QGIS progress with Discover QGIS Workbook: data loading, CRS, sym
 4. **Created a Map**:  
    - Added a title, legend, scale bar, and north arrow.  
    - Exported as `Black-Bear-Habitat.jpg` at high resolution of 300dpi.
+
+## Screenshots
+| Final Map |  
+|-------------------|
+| ![Map]() |  
+
+## Data Sources
+- The National Atlas & USFWS. 
