@@ -15,7 +15,7 @@ Documenting my QGIS progress with Discover QGIS Workbook: data loading, CRS, sym
 ## Screenshots
 | Final Map |  
 |-------------------|
-| ![Map]() |  
+| ![Map](Black-Bear-Habitat.jpg) |  
 
 ## Data Sources
 - The National Atlas & USFWS. 
